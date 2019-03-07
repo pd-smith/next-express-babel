@@ -22,4 +22,4 @@ npm run build
 npm run start
 ```
 
-This project defaults to live on (localhost:3000)[http://localhost:3000].
+This project defaults to live on [localhost:3000](http://localhost:3000).
